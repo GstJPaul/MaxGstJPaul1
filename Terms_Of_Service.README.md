@@ -1,7 +1,7 @@
 
 # MaxGstJPaul Discord Bot - Terms of Service
 
-**Last Updated:** January 20, 2025
+**Last Updated:** September 12, 2025
 
 ## 1. Acceptance of Terms
 

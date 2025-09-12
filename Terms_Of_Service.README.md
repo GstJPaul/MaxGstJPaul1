@@ -171,7 +171,7 @@ We may take the following actions for Terms violations:
 For questions, support, or appeals regarding these Terms of Service:
 
 - **Discord Support Server:** https://discord.gg/p966PhdRd5
-- **Bot Developer:** MaxGstJPaul
+- **Bot Developer:** GstJPaul
 - **Email Support:** Available through Discord server
 
 ## 15. Changes to Terms

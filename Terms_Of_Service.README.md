@@ -1,29 +1,35 @@
-
 # MaxGstJPaul Discord Bot - Terms of Service
 
-**Last Updated:** September 12, 2025
+**Last Updated:** September 20, 2025  
+**Effective Date:** September 20, 2025
 
 ## 1. Acceptance of Terms
 
-By using this Discord bot ("the Bot"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the Bot.
+By inviting, using, or interacting with the MaxGstJPaul Discord bot ("the Bot"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these terms, please remove the Bot from your server and discontinue use.
 
-## 2. Bot Description
+## 2. Bot Description and Services
 
-This Discord bot provides various features including:
-- Economy and gambling systems
-- Moderation tools (jail, ban, timeout, sticky messages)
-- AI chat functionality
-- Pet system and virtual items
-- Administrative commands
-- Reporting system
-- Prefix commands (?sticky, ?csticky, ?rsticky)
+The MaxGstJPaul Discord bot provides comprehensive server management and entertainment features including:
 
-## 3. User Responsibilities
+### Core Features
+- **Economy System**: Virtual currency, daily rewards, work commands, bank system, leaderboards
+- **Gambling Games**: Coinflip, slots, blackjack, dice, roulette with virtual currency
+- **Moderation Tools**: Kick, ban, timeout, warning system, jail system with role management
+- **Sticky Messages**: Persistent channel messages with automatic reposting
+- **AI Chat Integration**: AI-powered conversations with message context and image analysis
+- **Pet System**: Virtual pet adoption, care, and interaction mechanics
+- **Utility Commands**: Server information, uptime monitoring, URL bypass services
 
-### 3.1 Acceptable Use
-You agree to:
-- Use the Bot in compliance with Discord's Terms of Service
-- Not abuse or exploit Bot features
+### Premium Features
+- **Enhanced Sticky Messages**: Up to 20 channels (vs 3 for free users)
+- **Advanced Economy Management**: Admin tools for managing user balances and economy
+- **Priority Support**: Faster response times for premium users
+
+### Specialized Features
+- **Ban Wave Monitoring**: Game-specific ban wave detection and alerts
+- **YouTube Verification**: Subscription verification system
+- **Report System**: User reporting with configurable channels
+- **External Monitoring**: Integration with UptimeRobot and BetterStack services
 - Not attempt to crash, hack, or disrupt the Bot
 - Not use the Bot for illegal activities
 - Respect other users when using Bot features
@@ -172,8 +178,7 @@ For questions, support, or appeals regarding these Terms of Service:
 
 - **Discord Support Server:** https://discord.gg/p966PhdRd5
 - **Bot Developer:** GstJPaul
-- **Email Support:** Available through Discord server
-
+- **Email Support:** itzgstjpaul@gmail.com
 ## 15. Changes to Terms
 
 - These Terms may be updated periodically
